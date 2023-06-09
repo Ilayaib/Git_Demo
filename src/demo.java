@@ -8,6 +8,8 @@ public class demo {
 		
 		System.out.println("=====print value===========");
 		System.out.println(x);
+		
+		System.out.println("=====print value x==========");
 	}
 
 }
